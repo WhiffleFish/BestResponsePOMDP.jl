@@ -13,4 +13,7 @@ export POMDPWrapper
 
 include("pomcp.jl")
 
+include("exploitability.jl")
+export approx_exploitability
+
 end # module
