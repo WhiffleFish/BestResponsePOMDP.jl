@@ -6,6 +6,7 @@ version = "0.1.0"
 [deps]
 BasicPOMCP = "d721219e-3fc6-5570-a8ef-e5402f47c49e"
 CounterfactualRegret = "9fefe0b7-a0d5-4e12-a8ed-3472cccdfc49"
+MCTS = "e12ccd36-dcad-5f33-8774-9175229e7b33"
 POMDPTools = "7588e00f-9cae-40de-98dc-e0c70c48cdd7"
 POMDPs = "a93abf59-7444-517b-a68a-c42f96afdd7d"
 ParticleFilters = "c8b314e2-9260-5cf8-ae76-3be7461ca6d0"

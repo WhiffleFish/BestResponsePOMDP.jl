@@ -1,10 +1,16 @@
 module BestResponsePOMDP
 
-using CounterfactualRegret
-const CFR = CounterfactualRegret
+import CounterfactualRegret as CFR
 using POMDPs
+using Random
 using POMDPTools
+using BasicPOMCP
+using MCTS
 using ParticleFilters
-greet() = print("Hello World!")
+
+include("convert2pomdp.jl")
+export POMDPWrapper
+
+include("pomcp.jl")
 
 end # module
