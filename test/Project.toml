@@ -1,0 +1,6 @@
+[deps]
+BasicPOMCP = "d721219e-3fc6-5570-a8ef-e5402f47c49e"
+CounterfactualRegret = "9fefe0b7-a0d5-4e12-a8ed-3472cccdfc49"
+D3Trees = "e3df1716-f71e-5df9-9e2d-98e193103c45"
+POMDPs = "a93abf59-7444-517b-a68a-c42f96afdd7d"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
